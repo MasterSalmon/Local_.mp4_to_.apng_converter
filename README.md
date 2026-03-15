@@ -6,6 +6,7 @@ A free, local, one-click tool for converting MP4 video clips to **Animated PNG (
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg)
 
+
 ---
 
 ## Why APNG?
@@ -22,11 +23,10 @@ A free, local, one-click tool for converting MP4 video clips to **Animated PNG (
 - **100% local** — your files never leave your computer
 - **Free & open source** — no accounts, no ads, no tracking
 
-## Screenshots
+## Screenshot
 
-<!-- Add screenshots here after first release -->
-<!-- ![Main interface](screenshots/main.png) -->
-<!-- ![Trim controls](screenshots/trim.png) -->
+![MP4 to APNG Converter](Screenshot%202026-03-15%20031103.png)
+
 
 ## Quick Start (Windows)
 
